@@ -30,18 +30,16 @@ Welcome to HackXcelerate hosted by Veermata Jijabai Technological Institute! Thi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](screenshots/signup.jpg)
+![Screenshot 2](screenshots/login.jpg)
+![Screenshot 3](screenshots/home.jpg)
+![Screenshot 4](screenshots/seller.jpg)
+![Screenshot 5](screenshots/settings.jpg)
 
 ## Contributors
 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
-- Alice Johnson ([@alicejohnson](https://github.com/alicejohnson))
-- Bob Williams ([@bobwilliams](https://github.com/bobwilliams))
-- Emily Brown ([@emilybrown](https://github.com/emilybrown))
-
----
-
-Thank you for participating in HackXcelerate! We look forward to seeing your innovative solutions. If you have any questions or need assistance, feel free to reach out to the organizers. Happy hacking!
+- Hackxcelerate ([@hackxcelerate](https://github.com/hackxcelerate))
+- Krish Porwal ([@krishporwal14](https://github.com/krishporwal14))
+- Aniket Bhangale ([@anikett10](https://github.com/anikett10))
+- Achal Chinavalkar ([@AchalC27](https://github.com/))
+- Mrunmayi Ambhaikar ([@MrunmayiA](https://github.com/))
