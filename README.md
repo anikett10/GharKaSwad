@@ -30,16 +30,11 @@ Welcome to HackXcelerate hosted by Veermata Jijabai Technological Institute! Thi
 
 ## Screenshots
 
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
-![Screenshot 4]()
-![Screenshot 5]()
-<img src="screenshots/signup.jpg" alt="Signup Image" width="300" height="200">
-<img src="screenshots/login.jpg" alt="Login Image" width="300" height="200">
-<img src="screenshots/home.jpg" alt="Home Image" width="300" height="200">
-<img src="screenshots/seller.jpg" alt="Seller Image" width="300" height="200">
-<img src="screenshots/settings.jpg" alt="Settings Image" width="300" height="200">
+<img src="screenshots/signup.jpg" alt="Signup Image" width="300" height="600">
+<img src="screenshots/login.jpg" alt="Login Image" width="300" height="600">
+<img src="screenshots/home.jpg" alt="Home Image" width="300" height="600">
+<img src="screenshots/seller.jpg" alt="Seller Image" width="300" height="600">
+<img src="screenshots/settings.jpg" alt="Settings Image" width="300" height="600">
 
 ## Contributors
 
