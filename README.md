@@ -38,7 +38,7 @@ Welcome to HackXcelerate hosted by Veermata Jijabai Technological Institute! Thi
 
 ## Contributors
 
-- Hackxcelerate ([@hackxcelerate](https://github.com/hackxcelerate))
+- Hackxcelerate(COC) ([@hackxcelerate](https://github.com/hackxcelerate))
 - Krish Porwal ([@krishporwal14](https://github.com/krishporwal14))
 - Aniket Bhangale ([@anikett10](https://github.com/anikett10))
 - Achal Chinavalkar ([@AchalC27](https://github.com/))
